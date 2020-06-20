@@ -1,5 +1,7 @@
 This is a private project that I made to practice my javaScript knowledge.
 
+visit at: https://mpavcell.github.io/clicktheredbutton/
+
 The point of the "game" is to click away as many red squares as possible.
 Every click the score counts +10 and ever x seconds a new red square appears.
 The game is over when the board is entirely red.
